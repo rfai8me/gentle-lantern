@@ -4,7 +4,7 @@ schemaVersion: 1
 framework:
   themePackage:
     name: "@rathnasgala/theme"
-    version: 2.0.3
+    version: 2.0.4
 site:
   id: 01M0T5Z4FBK60HTS7FH8JK06QK
   ownerId: 01M04FP8ZK8JBD9CP3GYDCGG5T

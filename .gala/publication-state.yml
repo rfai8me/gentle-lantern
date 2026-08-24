@@ -1,2 +1,8 @@
 schemaVersion: 1
-posts: []
+deployedCommitSha: ff51059f8b0abcc7eef279baf55d78012be4f19e
+posts:
+  - id: 01M0T5ZMNEWG4TBGZN0FDE0ZV9
+    slug: example
+    languages:
+      en:
+        firstPublishedOn: 2026-08-24

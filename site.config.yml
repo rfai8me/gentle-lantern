@@ -6,9 +6,9 @@ framework:
     name: "@rathnasgala/theme"
     version: 2.0.3
 site:
-  id: unavailable
-  ownerId: unavailable
-  repository: unavailable
+  id: 01M0T5Z4FBK60HTS7FH8JK06QK
+  ownerId: 01M04FP8ZK8JBD9CP3GYDCGG5T
+  repository: rfai8me/gentle-lantern
   # Set the publication title and public author profile here. Until then the repository owner is shown.
   name: "Gentle Lantern"
   author: unavailable
@@ -26,8 +26,8 @@ site:
 hosting:
   provider: github-pages
   topology: provider-default
-  canonicalBaseUrl: unavailable
-  pathPrefix: /unavailable
+  canonicalBaseUrl: https://rfai8me.github.io
+  pathPrefix: /gentle-lantern
   canonicalPolicy: self
 design:
   theme: editorial

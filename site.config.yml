@@ -55,5 +55,5 @@ performance:
     ordinaryHtmlBytes: 32768
 prism:
   schemaVersion: 1
-  mode: MANUAL
+  mode: ASSISTED
   configurationLinkPolicy: NOFOLLOW

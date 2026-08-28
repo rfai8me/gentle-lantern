@@ -53,3 +53,7 @@ performance:
     managedJavaScriptBytes: 65536
     managedCssBytes: 32768
     ordinaryHtmlBytes: 32768
+prism:
+  schemaVersion: 1
+  mode: MANUAL
+  configurationLinkPolicy: NOFOLLOW

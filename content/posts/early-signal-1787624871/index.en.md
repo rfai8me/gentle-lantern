@@ -1,4 +1,5 @@
 ---
+id: 01M144TZJC822PHXMHWMN8DKMH
 title: The Power of Simple Text
 publishAfterDate: 2026-08-26
 language: en

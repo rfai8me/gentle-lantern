@@ -1,8 +1,13 @@
 schemaVersion: 1
-deployedCommitSha: ff51059f8b0abcc7eef279baf55d78012be4f19e
+deployedCommitSha: 4773fabe66c2dfbe202b9914fda95b1935eeda6d
 posts:
   - id: 01M0T5ZMNEWG4TBGZN0FDE0ZV9
     slug: example
     languages:
       en:
         firstPublishedOn: 2026-08-24
+  - id: 01M144TZJC822PHXMHWMN8DKMH
+    slug: early-signal-1787624871
+    languages:
+      en:
+        firstPublishedOn: 2026-08-28

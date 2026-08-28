@@ -35,8 +35,6 @@ greet("Reader")
 
 > "Simplicity is the soul of efficiency." — Austin Freeman
 
-![8656bfaa 83a4 4969 9435 520ba70b5217](media/8656bfaa-83a4-4969-9435-520ba70b5217.jpg)
-
 ## Conclusion
 
 Give Markdown a try on your next project. It saves time and keeps your focus on writing.

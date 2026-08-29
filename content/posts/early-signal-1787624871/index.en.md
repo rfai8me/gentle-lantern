@@ -5,7 +5,7 @@ publishAfterDate: 2026-08-26
 language: en
 ---
 
-# The Power of Simple Text
+# The Power of Simple Text#2
 
 Markdown is a lightweight markup language that lets you format plain text documents using easy-to-remember symbols. Created by John Gruber in 2004, it is now used everywhere from README files to full blogs.
 
@@ -34,7 +34,7 @@ def greet(name):
 greet("Reader")
 ```
 
-> "Simplicity is the soul of efficiency." — Austin Freeman
+> "Simplicity is the soul of efficiency." - Austin Freeman
 
 ## Conclusion
 

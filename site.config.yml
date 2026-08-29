@@ -4,7 +4,7 @@ schemaVersion: 1
 framework:
   themePackage:
     name: "@rathnasgala/theme"
-    version: 2.0.7
+    version: 2.0.10
 site:
   id: 01M0T5Z4FBK60HTS7FH8JK06QK
   ownerId: 01M04FP8ZK8JBD9CP3GYDCGG5T
@@ -51,7 +51,7 @@ contact:
 performance:
   budgets:
     managedJavaScriptBytes: 65536
-    managedCssBytes: 32768
+    managedCssBytes: 33792
     ordinaryHtmlBytes: 32768
 prism:
   schemaVersion: 1

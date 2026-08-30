@@ -8,7 +8,7 @@ tags: [text, md, html]
 
 # The Power of Simple Text
 
-Markdown is a lightweight markup language that lets you format plain text documents using easy-to-remember symbols. Created by John Gruber in 2004, it is now used everywhere from README files to full blogs.
+Markdown is a lightweight markup language that lets you format plain text documents using easy-to-remember symbols. Created by John Gruber in 2004, it is now used everywhere from README files to full blogs..
 
 ## Why Use Markdown?
 

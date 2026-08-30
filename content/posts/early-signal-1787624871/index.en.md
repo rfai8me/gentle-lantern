@@ -31,7 +31,6 @@ You can display code or preformatted text using triple backticks:
 ```python
 def greet(name):
     print(f"Hello, {name}!")
-
 greet("Reader")
 ```
 

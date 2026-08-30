@@ -3,9 +3,10 @@ id: 01M144TZJC822PHXMHWMN8DKMH
 title: The Power of Simple Text #2
 publishAfterDate: 2026-08-26
 language: en
+tags: [text, md, html]
 ---
 
-# The Power of Simple Text#2
+# The Power of Simple Text
 
 Markdown is a lightweight markup language that lets you format plain text documents using easy-to-remember symbols. Created by John Gruber in 2004, it is now used everywhere from README files to full blogs.
 

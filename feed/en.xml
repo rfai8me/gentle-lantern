@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://rfai8me.github.io/gentle-lantern/feed/en.xml</id>
+  <title>Gentle Lantern - en</title>
+  <author><name>Gentle Lantern</name></author>
+  <updated>2026-09-03T09:43:31.848Z</updated>
+  <link rel="self" href="https://rfai8me.github.io/gentle-lantern/feed/en.xml"/>
+  <entry>
+    <id>urn:gala:article:01M144TZJC822PHXMHWMN8DKMH:en</id>
+    <title>The Power of Simple Text</title>
+    <updated>2026-08-26T00:00:00.000Z</updated>
+    <link href="https://rfai8me.github.io/gentle-lantern/en/early-signal-1787624871/"/>
+    <content type="html">&lt;h1 id=&quot;the-power-of-simple-text&quot;&gt;The Power of Simple Text&lt;/h1&gt;
+&lt;p&gt;Markdown is a lightweight markup language that lets you format plain text documents using easy-to-remember symbols. Created by John Gruber in 2004, it is now used everywhere from README files to full blogs..&lt;/p&gt;
+&lt;h2 id=&quot;why-use-markdown&quot;&gt;Why Use Markdown?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Easy to Read:&lt;/strong&gt; The raw text looks clean and makes sense even without a renderer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Portable:&lt;/strong&gt; You can open &lt;code&gt;.md&lt;/code&gt; files in any text editor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast:&lt;/strong&gt; No need to click formatting buttons or navigate heavy menus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;basic-syntax-guide&quot;&gt;Basic Syntax Guide&lt;/h2&gt;
+&lt;p&gt;Here are the most common formatting tools you will need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Bold text:&lt;/strong&gt; Use &lt;code&gt;**double asterisks**&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Italic text:&lt;/strong&gt; Use &lt;code&gt;*single asterisks*&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links:&lt;/strong&gt; Wrap the text in &lt;code&gt;[brackets](url)&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;/h3&gt;
+&lt;p&gt;You can display code or preformatted text using triple backticks:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;def greet(name):
+    print(f&quot;Hello, {name}!&quot;)
+greet(&quot;Reader&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&quot;Simplicity is the soul of efficiency.&quot; - Austin Freeman&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Give Markdown a try on your next project. It saves time and keeps your focus on writing.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>urn:gala:article:01M0T5ZMNEWG4TBGZN0FDE0ZV9:en</id>
+    <title>The Power of Simple Text</title>
+    <updated>2026-08-10T00:00:00.000Z</updated>
+    <link href="https://rfai8me.github.io/gentle-lantern/en/example/"/>
+    <content type="html">&lt;h1 id=&quot;the-power-of-simple-text-1&quot;&gt;The Power of Simple Text #1&lt;/h1&gt;
+&lt;p&gt;Markdown is a lightweight markup language that lets you format plain text documents using easy-to-remember symbols. Created by John Gruber in 2004, it is now used everywhere from README files to full blogs.&lt;/p&gt;
+&lt;h2 id=&quot;why-use-markdown&quot;&gt;Why Use Markdown?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Easy to Read:&lt;/strong&gt; The raw text looks clean and makes sense even without a renderer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Portable:&lt;/strong&gt; You can open &lt;code&gt;.md&lt;/code&gt; files in any text editor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast:&lt;/strong&gt; No need to click formatting buttons or navigate heavy menus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;basic-syntax-guide&quot;&gt;Basic Syntax Guide&lt;/h2&gt;
+&lt;p&gt;Here are the most common formatting tools you will need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Bold text:&lt;/strong&gt; Use &lt;code&gt;**double asterisks**&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Italic text:&lt;/strong&gt; Use &lt;code&gt;*single asterisks*&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links:&lt;/strong&gt; Wrap the text in &lt;code&gt;[brackets](url)&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;/h3&gt;
+&lt;p&gt;You can display code or preformatted text using triple backticks:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;def greet(name):
+    print(f&quot;Hello, {name}!&quot;)
+
+greet(&quot;Reader&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&quot;Simplicity is the soul of efficiency.&quot; - Austin Freeman&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;media/8656bfaa-83a4-4969-9435-520ba70b5217.jpg&quot; alt=&quot;8656bfaa 83a4 4969 9435 520ba70b5217&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Give Markdown a try on your next project. It saves time and keeps your focus on writing.&lt;/p&gt;
+</content>
+  </entry>
+</feed>
